@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/usereducer/static/css/main.9aaacc60.chunk.css",
+    "main.js": "/usereducer/static/js/main.2f3680b2.chunk.js",
+    "main.js.map": "/usereducer/static/js/main.2f3680b2.chunk.js.map",
+    "runtime-main.js": "/usereducer/static/js/runtime-main.e7dec3d8.js",
+    "runtime-main.js.map": "/usereducer/static/js/runtime-main.e7dec3d8.js.map",
+    "static/js/2.f9a0531b.chunk.js": "/usereducer/static/js/2.f9a0531b.chunk.js",
+    "static/js/2.f9a0531b.chunk.js.map": "/usereducer/static/js/2.f9a0531b.chunk.js.map",
+    "static/js/3.f55bcf53.chunk.js": "/usereducer/static/js/3.f55bcf53.chunk.js",
+    "static/js/3.f55bcf53.chunk.js.map": "/usereducer/static/js/3.f55bcf53.chunk.js.map",
+    "index.html": "/usereducer/index.html",
+    "static/css/main.9aaacc60.chunk.css.map": "/usereducer/static/css/main.9aaacc60.chunk.css.map",
+    "static/js/2.f9a0531b.chunk.js.LICENSE.txt": "/usereducer/static/js/2.f9a0531b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7dec3d8.js",
+    "static/js/2.f9a0531b.chunk.js",
+    "static/css/main.9aaacc60.chunk.css",
+    "static/js/main.2f3680b2.chunk.js"
+  ]
+}
