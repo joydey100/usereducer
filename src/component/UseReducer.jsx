@@ -28,6 +28,7 @@ let reducer = (state, action) => {
                         isModalOpen : false
                     }
                     case "REMOVE_ITEM":
+//             NewItem notun array return kore. tai person: newItem deya hoyeche
                         let newItem = state.person.filter(person => person.id !== action.payload)                       
                         return{
                             ...state,
